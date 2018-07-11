@@ -1,0 +1,13 @@
+li:hover{
+cursor: pointer;
+background-color: rgb(114, 186, 201);
+color: rgb(210, 204, 56);
+}
+
+body #heading{
+  font-family: 'Francois One', sans-serif;
+}
+
+body #paraText{
+font-family: 'Karma', serif;
+}
